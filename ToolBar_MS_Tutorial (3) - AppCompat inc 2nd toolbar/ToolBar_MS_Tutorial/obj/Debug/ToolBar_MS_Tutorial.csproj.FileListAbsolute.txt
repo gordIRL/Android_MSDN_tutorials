@@ -1,0 +1,254 @@
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial-Signed.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csprojResolveAssemblyReference.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csproj.CoreCompileInputs.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\bin\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\layout\main.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\values\strings.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\values\styles.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\layout\toolbar.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\res\menu\top_menus.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\R.cs.flag
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\uploadflags.txt
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\linksrc\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial-Signed.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csprojResolveAssemblyReference.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csproj.CoreCompileInputs.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\bin\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\layout\main.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\values\strings.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\values\styles.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\layout\toolbar.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\menu\top_menus.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\R.cs.flag
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\uploadflags.txt
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (2) - Adding 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\menu\edit_menus.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial-Signed.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csproj.CoreCompileInputs.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csproj.CopyComplete
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\bin\ToolBar_MS_Tutorial.ToolBar_MS_Tutorial.apk
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\layout\main.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\values\strings.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\values\styles.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\layout\toolbar.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xxxhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-hdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-mdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_create.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_action_content_save.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_copy_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_cut_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_paste_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\mipmap-xhdpi\ic_menu_search_holo_dark.png
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\menu\top_menus.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\res\menu\edit_menus.xml
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\R.cs.flag
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\uploadflags.txt
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\ToolBar_MS_Tutorial.dll.mdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Android.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\Mono.Security.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\mscorlib.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Core.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Net.Http.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\android\assets\System.Xml.pdb
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\ToolBar_MS_Tutorial.csprojResolveAssemblyReference.cache
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\bin\Debug\ToolBar_MS_Tutorial.dll
+C:\AndroidCollegeProject\ToolBar_MS_Tutorial (3) - AppCompat inc 2nd toolbar\ToolBar_MS_Tutorial\obj\Debug\linksrc\ToolBar_MS_Tutorial.dll.mdb
