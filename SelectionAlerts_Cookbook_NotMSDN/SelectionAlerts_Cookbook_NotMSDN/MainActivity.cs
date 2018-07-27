@@ -39,8 +39,6 @@ namespace SelectionAlerts_Cookbook_NotMSDN
             button.Click += delegate
             {
 
-
-
                 // clear user's selection to begin
                 selectedCurrencyList.Clear();
 
